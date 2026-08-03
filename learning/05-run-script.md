@@ -27,3 +27,5 @@ Sécurité :
 Nettoyage :
 - Si vous voulez annuler : git checkout main && git branch -D feature/scaffold && git push origin --delete feature/scaffold
 
+
+CI trigger: commit at 2026-08-03T14:21:52Z
